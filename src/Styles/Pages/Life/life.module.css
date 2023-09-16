@@ -1,0 +1,44 @@
+.bannerImg {
+  background-image: url("https://res.cloudinary.com/degqlc4iv/image/upload/v1691574237/IMG_1793_1_Copy_b3f090cb69.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100% !important;
+  height: 100vh !important;
+  color: white !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center;
+}
+
+.bannerHeading {
+  font-weight: 600;
+  font-family: Montserrat;
+  text-align: center !important;
+}
+
+.bannerHeading2 {
+  font-weight: 400;
+  font-family: Montserrat;
+  text-align: center;
+}
+
+.ourTeamParagraph {
+  font-weight: 400;
+  font-family: Montserrat;
+  color: #555555;
+  padding-top: 10px;
+  font-size: 16px;
+}
+
+.ourTeamHeading {
+  font-size: 20px !important;
+  font-weight: 400 !important;
+  font-family: Montserrat !important;
+  font-weight: 700 !important;
+  padding-top: 10px !important;
+}
+.img {
+  height: 100% !important;
+  width: 100% !important;
+}

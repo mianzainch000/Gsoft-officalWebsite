@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Faq Border Remove */
+
+.css-6bxxch-MuiPaper-root-MuiAccordion-root:before,
+.faq {
+  background-color: transparent !important;
+}
+
+/* Technologies We Work With Active Button */
+
+.activeButton {
+  border-bottom: 5px solid aqua;
+  transition: 0.3s ease;
+}

@@ -1,0 +1,14 @@
+.navbarButton {
+  text-transform: none !important;
+  font-size: 15px !important;
+  color: white !important;
+}
+.whatsApp {
+  position: fixed;
+  bottom: 15px;
+  right: 0px;
+  cursor: pointer;
+  z-index: 99999999;
+  background-color: transparent;
+  width: 80px;
+}

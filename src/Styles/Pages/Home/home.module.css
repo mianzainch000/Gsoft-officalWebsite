@@ -1,0 +1,73 @@
+/* Banner Area */
+.bannerImg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0px;
+  width: 100% !important;
+  color: white !important;
+  height: fit-content;
+}
+.bannerImgHeading {
+  line-height: 58px !important;
+  font-family: Montserrat !important;
+}
+.bannerImgParagraph {
+  font-size: 16px;
+  font-weight: 400 !important;
+  font-family: Montserrat;
+  margin: 30px 0px !important;
+}
+.bannerImgButton {
+  color: white !important;
+  font-size: 18px !important;
+  text-transform: none !important;
+}
+.bannerHoverButton:hover {
+  background-color: lightblue !important;
+}
+
+/* 0ur 360 Services */
+
+.servicesHeading {
+  padding: 40px;
+}
+
+.OurServicesImg {
+  height: 100%;
+  width: 34%;
+  inset: 0px;
+  object-fit: cover;
+  color: transparent;
+}
+
+.ourServicesHover :hover {
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+}
+
+/* TechnologyWeWorkWith */
+
+.buttonTechnologyWeWorkWith {
+  font-size: 16px;
+  border: none;
+  text-transform: none;
+  cursor: pointer;
+}
+
+.buttonTechnologyWeWorkWithHeightFix {
+  height: 100px !important;
+}
+
+.active {
+  border-bottom: 5px solid aqua;
+  transition: 0.3s;
+}
+
+/* FAQ */
+
+.questionMarkImg {
+  width: 100%;
+  margin-top: 10px;
+}
